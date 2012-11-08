@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: JRubyParser
+Bundle-Name: JRuby Parser
 Bundle-SymbolicName: org.jrubyparser
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 1.2.0.qualifier
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
-Bundle-Vendor: enebo
+Bundle-Vendor: Thomas E. Enebo
 Export-Package: org.jrubyparser,
  org.jrubyparser.ast,
  org.jrubyparser.lexer,
