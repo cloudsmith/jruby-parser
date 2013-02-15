@@ -4,7 +4,7 @@
 	<groupId>org.cloudsmith.jruby</groupId>
 	<artifactId>jrubyparser</artifactId>
 	<packaging>jar</packaging>
-	<version>0.3-alpha</version>
+	<version>0.3-beta-SNAPSHOT</version>
 	<name>JRuby Parser</name>
 	<description>
     A library to expose exact char-for-char position information of Ruby syntax.
